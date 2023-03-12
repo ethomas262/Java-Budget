@@ -1,2 +1,2 @@
 # Java-Budget
-Budget Calculator I wrote  to calculate my budget
+Budget Calculator I wrote in java
